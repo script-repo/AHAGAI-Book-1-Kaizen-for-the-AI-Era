@@ -1,3 +1,14 @@
+Here is the entire book, in markdown in the readme. This is an initial commit just to get it started.
+
+The entire book has been a collaboration of both physical people and AI. Its far from done, but well on its way.
+
+The process was to read multiple books on Kaizen and integrate those habits into daily practices. The first habit of which is to write daily. And as a means of providing a project for that, I have started writing a book on using Generative AI and Kaizen together.
+
+The book can be read in its current state in markdown, HTML, pdf, or via github pages here: https://script-repo.github.io/AHAGAI-Book-1-Kaizen-for-the-AI-Era/
+
+
+
+
 # Kaizen for the AI Era: Harnessing Generative AI for Continuous Improvement and Innovation
 
 ## Front Matter
