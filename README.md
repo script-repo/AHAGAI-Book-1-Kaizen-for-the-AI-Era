@@ -2,16 +2,10 @@ The entire book has been a collaboration of both physical people and AI. Its far
 
 The process was to read multiple books on Kaizen and integrate those habits into daily practices. The first habit of which is to write daily. And as a means of providing a project for that, I have started writing a book on using Generative AI and Kaizen together.
 
-The book can be read in its current state in markdown, HTML, pdf, or via github pages here: 
-https://script-repo.github.io/AHAGAI-Book-1-Kaizen-for-the-AI-Era/
+The book can be read in its current state in markdown, HTML, pdf in the repo, or via github pages here: 
+# https://script-repo.github.io/AHAGAI-Book-1-Kaizen-for-the-AI-Era/
 
 # Kaizen for the AI Era: Harnessing Generative AI for Continuous Improvement and Innovation
-
-## Front Matter
-
-- Title Page
-    - Kaizen for the AI Era: Harnessing Generative AI for Continuous Improvement and Innovation
-    - Daemon Behr
   
 ## Table of Contents
 
