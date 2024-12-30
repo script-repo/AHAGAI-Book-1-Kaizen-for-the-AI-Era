@@ -1,4 +1,5 @@
-![Uploading book1-kaizen.png…]()
+![book1-kaizen](https://github.com/user-attachments/assets/294819b7-509b-4935-abb2-2956b2177380)
+
 
 The entire book has been a collaboration of both physical people and AI. Its far from done, but well on its way.
 
