@@ -1,3 +1,5 @@
+![Uploading book1-kaizen.png…]()
+
 The entire book has been a collaboration of both physical people and AI. Its far from done, but well on its way.
 
 The process was to read multiple books on Kaizen and integrate those habits into daily practices. The first habit of which is to write daily. And as a means of providing a project for that, I have started writing a book on using Generative AI and Kaizen together.
